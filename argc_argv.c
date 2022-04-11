@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <cs50.h>
+#include <string.h>
+
+int main(int argc, string argv[1])
+{
+   if (argc ==2){
+       printf("Hello, %s\n", argv[1]);
+   }
+   else{
+       printf("Hello, World")
+   }
+  
+  
+
+    return 0;
+}
